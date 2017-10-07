@@ -1,0 +1,12 @@
+c:\users\sanya\documents\visual studio 2012\Projects\kod\kod\bin\Debug\kod.exe.config
+c:\users\sanya\documents\visual studio 2012\Projects\kod\kod\bin\Debug\kod.exe
+c:\users\sanya\documents\visual studio 2012\Projects\kod\kod\bin\Debug\kod.pdb
+c:\users\sanya\documents\visual studio 2012\Projects\kod\kod\obj\Debug\kod.csprojResolveAssemblyReference.cache
+c:\users\sanya\documents\visual studio 2012\Projects\kod\kod\obj\Debug\kod.exe
+c:\users\sanya\documents\visual studio 2012\Projects\kod\kod\obj\Debug\kod.pdb
+D:\портафино\C#\код хэмминга\kod\Hamming-code\kod\bin\Debug\kod.exe.config
+D:\портафино\C#\код хэмминга\kod\Hamming-code\kod\bin\Debug\kod.exe
+D:\портафино\C#\код хэмминга\kod\Hamming-code\kod\bin\Debug\kod.pdb
+D:\портафино\C#\код хэмминга\kod\Hamming-code\kod\obj\Debug\kod.csprojResolveAssemblyReference.cache
+D:\портафино\C#\код хэмминга\kod\Hamming-code\kod\obj\Debug\kod.exe
+D:\портафино\C#\код хэмминга\kod\Hamming-code\kod\obj\Debug\kod.pdb
