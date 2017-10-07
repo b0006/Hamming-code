@@ -225,6 +225,8 @@
         <td>0</td>
         <td>1</td>
         <td>0</td>
+        <td><b><ins>r0</ins></b></td>
+        <td></td>
     </tr>
     <tr>
         <td>0</td>
@@ -247,6 +249,8 @@
         <td>1</td>
         <td>1</td>
         <td>0</td>
+        <td><b><ins>r1</ins></b></td>
+        <td></td>
     </tr>
     <tr>
         <td>0</td>
@@ -269,6 +273,8 @@
         <td>0</td>
         <td>0</td>
         <td>1</td>
+        <td><b><ins>r2</ins></b></td>
+        <td></td>
     </tr>
     <tr>
         <td>0</td>
@@ -291,6 +297,8 @@
         <td>0</td>
         <td>0</td>
         <td>0</td>
+        <td><b><ins>r3</ins></b></td>
+        <td></td>
     </tr>
     <tr>
         <td>0</td>
@@ -313,5 +321,7 @@
         <td>1</td>
         <td>1</td>
         <td>1</td>
+        <td><b><ins>r4</ins></b></td>
+        <td></td>
     </tr>
 </table>
